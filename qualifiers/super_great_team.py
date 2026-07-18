@@ -1,0 +1,3 @@
+
+def nextMove(gameState):
+  pass
